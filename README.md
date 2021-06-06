@@ -7,11 +7,11 @@ This application is an alpha version as of June 2021.
 
 - An application for recording personal commitment to environmental issues.
 
-- Management of schedules, expenses, weight management, etc. related to the initiatives
+- Management of schedules, expenses, weight management, etc. related to the initiatives.
 
-- Graph management function for some of the environmental initiatives and their associated effects
+- Graph management function for some of the environmental initiatives and their associated effects.
 
-- Reads tweets on news and topics related to environmental issues
+- Reads news and topics related to environmental issues You can also search for news that interests you.
 
 ## Operating environment
 
