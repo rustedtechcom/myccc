@@ -124,4 +124,4 @@ Mail:　rustedtech@rustedtech.com
 
 ## Author
 
-[rustedtech](https://github.com/rustedtech)
+[rustedtech](https://github.com/rustedtechcom)
