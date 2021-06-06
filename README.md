@@ -13,7 +13,7 @@ This application is an alpha version as of June 2021.
 
 - Reads news and topics related to environmental issues. You can also search for news that interests you.
 
-## Operating environment
+## System Requirements
 
 Android OS 9 or higher
 
