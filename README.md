@@ -15,11 +15,7 @@ This application is an alpha version as of June 2021.
 
 ## System Requirements
 
-Android OS 9 or higher
-
-## Usage
-
-abbreviation
+Android OS 11 or higher
 
 ## Install
 
