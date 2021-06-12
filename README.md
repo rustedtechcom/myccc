@@ -1,7 +1,7 @@
 # MyCCC
 
 ## Current Version
-version 1.4
+version 1.5
 
 ## Description
 This application is an alpha version as of June 2021.
